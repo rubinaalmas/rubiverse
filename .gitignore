@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+.venv/
+
+# Streamlit local secrets (never upload secrets!)
+.streamlit/secrets.toml
+
+# Local log file (contains sensitive info)
+rubiverse_logs.csv
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS Finder files (optional)
+.DS_Store

@@ -1,0 +1,123 @@
+[PROFILE]
+Rubina Almas graduated from Masters in Global Management with Data Sceince as concentration from Thunderbird School of Global Management at Arizona State University. 
+Because of her master's major, she is best in understanding management, business and tech which is a rare skill.
+She is curious, innovative, and ambitious ,someone who believes technology should empower people, not replace them. 
+Her work focuses on bridging engineering and AI to build solutions that are useful, sustainable, and exciting for the real world.
+Her interests include sustainable technology and human-centered AI solutions. 
+She is open to applying her AI and data science skills across multiple industries, including tech, aerospace, sustainability, and other creative or impactful fields.
+Rubina loves using data and intelligent systems to make communities safer, smarter, and more joyful.
+Rubina is proactive, globally minded, and driven by gratitude — especially toward her strong single-mother upbringing — which motivates her to build a successful and meaningful career.
+
+[EDUCATION]
+
+Master of Global Management (MGM), Concentration in Data Science  
+Arizona State University — Tempe, Arizona, USA  
+Expected Graduation: December 15, 2025  
+GPA: 3.9 / 4.0  
+
+Bachelor of Technology (B.Tech.) — Electronics & Communication Engineering  
+Andhra University — Visakhapatnam, India  
+Graduated: May 3, 2023  
+GPA: 3.2 / 4.0 (equivalent)
+
+[SKILLS]
+
+**Programming & Data Science**
+Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Computer Vision (CNNs & Transfer Learning), Natural Language Processing (Transformers – HuggingFace), Streamlit, Dash, Shiny, Data Visualization (Matplotlib, Plotly, ggplot2)
+
+**Engineering & Simulation**
+ROS 2, Gazebo
+
+**Tools & Platforms**
+Git, GitHub, Jupyter Notebook
+
+**Soft Skills**
+Communication, Collaboration, Leadership, Problem Solving, Stakeholder Management, Adaptability
+
+**Languages**
+English (Fluent), Telugu (Native), Hindi (Fluent), Urdu (Fluent), German (Beginner)
+
+[JOB EXPERIENCE]
+
+TITLE: Data Analyst, Student Consultant & Communications Lead  
+COMPANY: Innovate Europe Foundation — Berlin, Germany (Hybrid) | Oct 2025 – Dec 2025
+ROLES:
+• Led sovereign cloud cost-modeling analysis for the EuroStack initiative, benchmarking European providers against U.S. hyperscalers.
+• Worked directly with senior executives and policy leaders focused on digital sovereignty.
+• Delivered investor-ready briefings and strategic reports communicating economic and regulatory impact.
+• Served as Communications Lead to support stakeholder alignment and clear client-facing communication.
+
+TITLE: Management Intern — Curriculum Coordinator Track  
+COMPANY: Arizona State University — Tempe, AZ (Hybrid) | Aug 2025 – Present
+ROLES:
+• Supported curriculum evaluation workflows and ensured accurate classification of academic programs.
+• Improved student record accuracy across academic transfer datasets.
+• Coordinated with cross-functional academic teams and stakeholders to support smooth operational processes.
+• Managed communication and documentation for high-volume academic requests.
+
+TITLE: AI Researcher — AI in E-Commerce  
+COMPANY: Thunderbird School of Global Management — Phoenix, AZ (Remote) | May 2025 – Aug 2025
+ROLES:
+• Conducted research on AI-generated product summaries and their impact on user decision-making and conversion rates.
+• Built automated web scraping pipelines to extract large-scale product and review data for model evaluation.
+• Analyzed NLP model performance and human preference trends to support academic publication findings.
+
+[EXPERIENCE SUMMARY]
+
+Rubina Almas has built her experience at the intersection of data, management, and AI across consulting, higher education, and research roles.
+
+Most recently, she worked as a Data Analyst, Student Consultant & Communications Lead with the Innovate Europe Foundation (Berlin, Germany). In that role she led sovereign-cloud cost-modeling for the EuroStack initiative, benchmarked European cloud providers against U.S. hyperscalers, and delivered investor-ready briefings and strategic reports to senior executives focused on digital sovereignty. She also served as Communications Lead, coordinating stakeholder communication and polishing client-facing presentations and reports.
+
+In parallel, she serves as a Management Intern – Curriculum Coordinator Track at Arizona State University (Tempe, AZ), where she supports curriculum evaluation workflows, improves student-record accuracy across academic transfer datasets, and coordinates with cross-functional academic teams to ensure smooth processing of high-volume academic requests.
+
+Previously, Rubina worked as an AI Researcher – AI in E-Commerce at Thunderbird School of Global Management, conducting research on AI-generated product summaries, building automated web-scraping pipelines for large-scale product and review data, and analyzing NLP model performance and user-behavior trends to support academic publications.
+
+Altogether, her background shows a consistent pattern: she bridges data science, AI, and strategic communication to deliver practical, decision-ready insights for organizations.
+
+[MAJOR PROJECTS]
+
+Rubiverse — AI Twin Chatbot | Streamlit, OpenAI, RAG  
+An interactive personal AI assistant that answers questions only about Rubina’s skills, experience, and achievements. Powered by retrieval-augmented generation (RAG), OpenAI embeddings, and a custom Streamlit UI — designed for recruiters to explore her profile dynamically.
+
+Sensor Tower Web Scraper — Publisher Country Extraction | Python, Playwright, AsyncIO  
+Automated scraping system with login handling to extract publisher country information from Sensor Tower for over 8,000 mobile apps. Designed with human-like browsing patterns, error recovery, resume functionality, and asynchronous execution for scalable and reliable data collection.
+
+Retail Stockout Risk Prediction | Python, XGBoost, SMOTE  
+Built a machine learning model to predict high-risk stockouts by analyzing product demand, inventory levels, and seasonal trends. Applied SMOTE to resolve data imbalance and achieved strong prediction performance, helping retailers optimize product availability and reduce revenue loss.
+
+SafeSphere — Multimodal Hate Speech Detection | Python, NLP, Computer Vision  
+Developed a multimodal system analyzing Instagram comments, reel metadata, and extracted image text to detect hate content in multiple languages. Leveraged sentiment analysis, pre-trained transformers, and visual analysis to support safer online communities.
+
+Analysis of Arizona Businesses (Yelp Big Data) | PySpark, SQL, Hadoop  
+Engineered a data pipeline handling multiple large JSON datasets, converting them to Parquet, and querying with Spark SQL to uncover local business performance patterns and user behavior across Arizona. Identified category-level trends and analyzed review sentiment.
+
+Traffic-in-Tempe — Road Safety Dashboard | R, Shiny, Plotly  
+Created an interactive dashboard visualizing accident patterns based on severity, location, demographics, and weather. Enables decision-makers to explore safety insights for city planning and transportation improvements.
+
+Forecasting the U.S. Job Market — Time Series Analysis | ARIMA  
+Built an ARIMA model forecasting U.S. unemployment rates using Federal Reserve economic indicators, covering 2000-2022. Included trend visualization and predictive uncertainty to support economic scenario planning.
+
+📌 For full list and details, visit Rubina’s portfolio site:  
+https://ralmas38.wixsite.com/portfolio/solutions
+
+[LEADERSHIP & AWARDS]
+
+Global Principled Innovation for AI Fellow — Thunderbird School of Global Management  
+Selected for a competitive fellowship focused on responsible and ethical AI development, collaborating with international leaders on innovation strategies.
+
+Communications Lead — EuroStack Consulting Project  
+Led stakeholder communication and delivery strategy for a cross-functional consulting team supporting the Innovate Europe Foundation on digital sovereignty initiatives.
+
+Strategic Data Analyst — EuroStack Cost Modeling  
+Owned the cost-modeling workstream for the EuroStack sovereign cloud business case, directly influencing executive-level decision-making.
+
+Women in STEM & International Student Advocate  
+Actively represents and supports women and international professionals in engineering and technology fields through mentorship and visibility.
+
+[PERSONAL & FUN FACTS]
+
+• Rubina was raised by a strong single mother and is driven by gratitude, purpose, and the desire to give back to her family who shaped her journey.
+• She loves working out, reading fictional books, and experiencing new cultures through travel — she proudly identifies as a big foodie.
+• playful dream if money and visas didn’t matter: create a cozy café with books, flowers, and cats — just for fun!
+• She enjoys exploring Europe and dreams of discovering more global destinations in the future.
+• Rubina’s vibe: ambitious ✨ kind-hearted 💛 and fun-loving 😄 — she brings both positivity and determination into every room she walks into.
