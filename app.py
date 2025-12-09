@@ -28,10 +28,9 @@ SENDER_EMAIL = "rubinaalmas610@gmail.com"
 RESUME_PATH = "Rubina_Almas_Resume.pdf"
 LOG_PATH = "rubiverse_logs.csv"
 
-# 👉 New: admin analytics key (comes from secrets, not hard-coded)
+# New: admin analytics key (comes from secrets, not hard-coded)
 ADMIN_ANALYTICS_KEY = st.secrets.get("RUBIVERSE_ADMIN_KEY", "")
 
-# ⚠️ Use your real key here
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # ----------------------
@@ -324,7 +323,7 @@ if ADMIN_ANALYTICS_KEY:
 if not docs:
     st.error("No knowledge found. Please make sure 'rubina_knowledge.txt' exists.")
 else:
-    # 1️⃣ Show existing chat history as real chat bubbles
+    #  Show existing chat history as real chat bubbles
     for role, msg in st.session_state["chat_history"]:
         if role == "user":
             with st.chat_message("user"):
@@ -333,12 +332,12 @@ else:
             with st.chat_message("assistant"):
                 st.markdown(msg)
 
-    # 2️⃣ Chat-style input at the bottom
+    #  Chat-style input at the bottom
     user_question = st.chat_input(
         "Ask about Rubina's skills, projects, or experience..."
     )
 
-    # 3️⃣ Handle new message (fires immediately on first send)
+    # Handle new message 
     if user_question:
         question = user_question.strip()
         if not question:
