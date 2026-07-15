@@ -30,10 +30,11 @@ Visakhapatnam, India
 August 2019 to May 2023
 GPA: 3.2 out of 4.0 equivalent
 
+
 [TECHNICAL SKILLS]
 Programming and databases: Python, SQL, R, PostgreSQL, MySQL
 
-Machine learning and AI: Scikit-learn, XGBoost, SMOTE, TensorFlow, Keras, PyTorch, CNNs, transfer learning, OpenAI API, embeddings, retrieval-augmented generation, cosine-similarity search, feature engineering, model evaluation
+Machine learning and AI: Scikit-learn, XGBoost, SMOTE, TensorFlow, Keras, PyTorch, CNNs, transfer learning, OpenAI API, embeddings, retrieval-augmented generation, cosine-similarity search, feature engineering, model evaluation, responsible AI, AI ethics, algorithmic bias, data bias, and human bias
 
 Data analysis: Pandas, NumPy, SciPy, exploratory data analysis, data cleaning, data validation, predictive analytics, statistical analysis, time-based features, class-imbalance handling
 
@@ -140,12 +141,33 @@ U.S. Job Market Forecasting: Rubina built an ARIMA time-series model to forecast
 
 SafeSphere: Rubina developed a multimodal hate-speech detection concept using natural-language processing, sentiment analysis, pretrained models, metadata, and visual or extracted-text signals to support safer online communities.
 
+[CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT]
+
+IBM SkillsBuild
+AI Fundamentals: Foundations for Understanding AI
+Issued July 15, 2026
+
+This credential demonstrates foundational knowledge of artificial intelligence and its core technologies. Rubina can explain AI concepts and capabilities, distinguish human learning from machine learning, describe types of machine learning, and explain the basic functions of neural networks and deep learning.
+
+The credential also covers forms of AI, responsible use of AI tools, AI ethics, algorithmic bias, data bias, human bias, and the responsible generation and refinement of AI-supported solutions.
+
+AWS Training & Certification
+Machine Learning Terminology and Process
+Completed June 9, 2025
+
+Rubina completed foundational AWS training covering machine-learning terminology, processes, and core concepts.
+
 [LEADERSHIP AND RECOGNITION]
+
 Rubina was selected as a Global Principled Innovation for AI Fellow at Thunderbird School of Global Management. The fellowship emphasized responsible, ethical, and human-centered approaches to artificial intelligence.
+
+Rubina received an ASU SUN Award, or Serving University Needs Award, in April 2026 for demonstrating leadership and hosting a Principled Innovation Learning Lab within Academic Transfer Solutions.
+
+The session introduced colleagues to the Principled Innovation Framework, Dice, and Bot, helping team members consider how thoughtful decision-making principles could be applied in their work and personal lives. The recognition highlighted Rubina’s leadership, initiative, innovation, and contribution to internal learning and knowledge sharing.
 
 During the EuroStack consulting project, Rubina supported team communication, stakeholder alignment, analysis, and client-facing deliverables.
 
-At Arizona State University, Rubina has contributed to AI knowledge-sharing and technical documentation initiatives.
+At Arizona State University, Rubina has contributed to AI knowledge-sharing, internal learning sessions, and technical documentation initiatives.
 
 [PERSONAL INTERESTS]
 Rubina enjoys strength training, reading fiction, traveling, exploring new cultures, and discovering new foods.
