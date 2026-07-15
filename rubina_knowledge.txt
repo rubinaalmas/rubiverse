@@ -142,7 +142,6 @@ U.S. Job Market Forecasting: Rubina built an ARIMA time-series model to forecast
 SafeSphere: Rubina developed a multimodal hate-speech detection concept using natural-language processing, sentiment analysis, pretrained models, metadata, and visual or extracted-text signals to support safer online communities.
 
 [CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT]
-
 IBM SkillsBuild
 AI Fundamentals: Foundations for Understanding AI
 Issued July 15, 2026
