@@ -141,7 +141,7 @@ U.S. Job Market Forecasting: Rubina built an ARIMA time-series model to forecast
 
 SafeSphere: Rubina developed a multimodal hate-speech detection concept using natural-language processing, sentiment analysis, pretrained models, metadata, and visual or extracted-text signals to support safer online communities.
 
-[CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT]
+[CERTIFICATIONS]
 IBM SkillsBuild
 AI Fundamentals: Foundations for Understanding AI
 Issued July 15, 2026
@@ -157,7 +157,6 @@ Completed June 9, 2025
 Rubina completed foundational AWS training covering machine-learning terminology, processes, and core concepts.
 
 [LEADERSHIP AND RECOGNITION]
-
 Rubina was selected as a Global Principled Innovation for AI Fellow at Thunderbird School of Global Management. The fellowship emphasized responsible, ethical, and human-centered approaches to artificial intelligence.
 
 Rubina received an ASU SUN Award, or Serving University Needs Award, in April 2026 for demonstrating leadership and hosting a Principled Innovation Learning Lab within Academic Transfer Solutions.
